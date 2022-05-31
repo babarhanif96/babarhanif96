@@ -4,7 +4,7 @@
 <br>
  <b>I’m currently working on BLOCKCHAIN, ETHEREUM - SOLIDITY, and React - Node.Js</b>
  <br>
- I’m currently learning BLOCKCHAIN DAPP DECENTRALIZATION
+<b> I’m currently learning BLOCKCHAIN DAPP DECENTRALIZATION </b>
  <br>
 <b> Teach BLOCKCHAIN DEVELOPMENT </b>
 
