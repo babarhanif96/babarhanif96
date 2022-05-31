@@ -1,6 +1,6 @@
 ### Hi Devs :wave:
 <h1 align="center">I am Muhammad Babar Hanif</h1>
-Blockchain Engineer
+<b>Blockchain Engineer</b>
 <br>
  I’m currently working on BLOCKCHAIN, ETHEREUM - SOLIDITY, and React - Node.Js
  <br>
