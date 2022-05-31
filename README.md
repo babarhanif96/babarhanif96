@@ -2,11 +2,11 @@
 <h1 align="center">I am Muhammad Babar Hanif</h1>
 <b>Blockchain Engineer</b>
 <br>
- I’m currently working on BLOCKCHAIN, ETHEREUM - SOLIDITY, and React - Node.Js
+ <b>I’m currently working on BLOCKCHAIN, ETHEREUM - SOLIDITY, and React - Node.Js</b>
  <br>
  I’m currently learning BLOCKCHAIN DAPP DECENTRALIZATION
  <br>
- Teach BLOCKCHAIN DEVELOPMENT to newbie
+<b> Teach BLOCKCHAIN DEVELOPMENT </b>
 
 ## Muhammad Babar Hanif's Github Stats
 <span> ![Babar's github stats](https://github-readme-stats.vercel.app/api?username=MuhammadBabarHanif&theme=tokyonight&show_icons=true&count_private=true) </span>
