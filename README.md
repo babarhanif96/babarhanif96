@@ -2,9 +2,9 @@
 <h1 align="center">I am Muhammad Babar Hanif</h1>
 <b>Blockchain Engineer</b>
 <br>
- <b>I’m currently working on BLOCKCHAIN, ETHEREUM - SOLIDITY, and React - Node.Js</b>
+ <b>I’m currently working on BLOCKCHAIN, ETHEREUM - SOLIDITY, SmartContract , DAPP and React - Node.Js</b>
  <br>
-<b> I’m currently learning BLOCKCHAIN DAPP DECENTRALIZATION </b>
+<b> I’m currently Working on BLOCKCHAIN  DAPP DECENTRALIZATION </b>
  <br>
 <b> Teach BLOCKCHAIN DEVELOPMENT </b>
 
