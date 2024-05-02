@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Muhammad Babar Hanif</h1>
+<h1 align="center">Hi 👋, I'm Muhammad Babar</h1>
 <h3 align="center">A passionate Sr. Full Stack Blockchain Dev</h3>
 
 
