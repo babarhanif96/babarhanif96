@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Babar</h1>
-<h3 align="center">A passionate Sr. Full Stack Blockchain Dev</h3>
+<h3 align="center">A Passionate Sr. Full Stack Blockchain Dev</h3>
 
 
 <p align="left">
