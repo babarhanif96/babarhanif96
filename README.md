@@ -19,7 +19,7 @@
 
 ## About Me
 
-I'm a Senior Software Engineer with 5+ years of experience designing, developing, and delivering scalable, production-ready software applications across Full-Stack Development, Blockchain Engineering, Web3, and AI-powered solutions.
+I'm a Senior Software Engineer with 9+ years of experience designing, developing, and delivering scalable, production-ready software applications across Full-Stack Development, Blockchain Engineering, Web3, and AI-powered solutions.
 
 I specialize in building end-to-end digital products, from system architecture and backend infrastructure to responsive frontend applications, smart contracts, third-party integrations, and production deployment.
 
