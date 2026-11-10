@@ -1,15 +1,288 @@
-<h1 align="center">Hi 👋, I'm Muhammad Babar</h1>
-<h3 align="center">A Passionate Sr. Full Stack Blockchain Dev</h3>
 
+<h1 align="center">Muhammad Babar Hanif</h1>
+<h3 align="center">Senior Software Engineer | Full-Stack Architect | Blockchain & Web3 Engineer | AI-Powered Applications</h3>
 
-<p align="left">
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Senior+Full-Stack+Software+Engineer;Blockchain+%26+Web3+Developer;AI-Powered+Application+Engineer;Backend+%26+System+Architecture;Building+Scalable+Production+Systems&center=true&width=650&height=45">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://backbonejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/backbonejs/backbonejs-original-wordmark.svg" alt="backbonejs" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://openresty.org/" target="_blank" rel="noreferrer"> <img src="https://openresty.org/images/logo.png" alt="openresty" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://lucene.apache.org/solr/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_solr/apache_solr-icon.svg" alt="solr" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://github.com/babarhanif96">
+    <img src="https://komarev.com/ghpvc/?username=babarhanif96&label=Profile%20Views&color=blueviolet&style=flat" />
+  </a>
+  <img src="https://img.shields.io/github/followers/babarhanif96?label=Followers&style=flat&color=blue" />
+  <img src="https://img.shields.io/badge/Experience-5%2B%20Years-success" />
+  <img src="https://img.shields.io/badge/Focus-Production%20Engineering-orange" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=babarhanif96&show_icons=true&locale=en&layout=compact" alt="babarhanif96" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=babarhanif96&show_icons=true&locale=en" alt="babarhanif96" /></p>
+## About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=babarhanif96&" alt="babarhanif96" /></p>
+I'm a Senior Software Engineer with 5+ years of experience designing, developing, and delivering scalable, production-ready software applications across Full-Stack Development, Blockchain Engineering, Web3, and AI-powered solutions.
+
+I specialize in building end-to-end digital products, from system architecture and backend infrastructure to responsive frontend applications, smart contracts, third-party integrations, and production deployment.
+
+My engineering approach focuses on clean architecture, maintainable code, performance optimization, security, scalability, and solving complex real-world business problems.
+
+### What I Do
+
+- Full-Stack Application Development & System Architecture
+- Enterprise-Grade Backend Engineering & RESTful APIs
+- Blockchain Development & Smart Contract Engineering
+- DeFi Protocols, Tokenization & Web3 Applications
+- AI-Powered Applications, LLM Integrations & AI Agents
+- Database Architecture, Optimization & Data Management
+- Secure Authentication, Authorization & Payment Systems
+- Cloud Infrastructure, DevOps & Production Deployment
+- Third-Party API Integrations & Distributed Systems
+- Technical Leadership, Code Reviews & Engineering Collaboration
+
+---
+
+## Technical Expertise
+
+### Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=js,ts,python,solidity,html,css" />
+</p>
+
+### Frontend Engineering
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,angular,vue,tailwind,bootstrap,sass,vite" />
+</p>
+
+- React.js & Next.js
+- TypeScript & JavaScript
+- Redux Toolkit & Context API
+- React Query / TanStack Query
+- Responsive UI & Component Architecture
+- Server-Side Rendering (SSR)
+- Static Site Generation (SSG)
+- Progressive Web Applications
+- Web Performance Optimization
+- Web3 Frontend Integration
+
+### Backend Engineering
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,fastapi,graphql,prisma" />
+</p>
+
+- Node.js & NestJS
+- Express.js & Fastify
+- RESTful API Architecture
+- GraphQL APIs
+- Microservices Architecture
+- Event-Driven Systems
+- WebSockets & Real-Time Applications
+- Authentication & Authorization
+- JWT, OAuth2 & Role-Based Access Control
+- API Security & Rate Limiting
+- Background Jobs & Queue Processing
+- Webhooks & Third-Party Integrations
+
+### Blockchain & Web3 Engineering
+
+<p>
+<img src="https://skillicons.dev/icons?i=solidity,ethereum,web3js" />
+</p>
+
+- Solidity & Smart Contract Development
+- Ethereum Virtual Machine (EVM)
+- Ethereum, BNB Chain, Polygon, Base & Arbitrum
+- ERC-20, ERC-721 & ERC-1155
+- ERC-4626 & ERC-3643 Token Standards
+- DeFi Protocols & Decentralized Exchanges
+- Tokenization & Real-World Assets (RWA)
+- Staking, Vesting & Launchpad Systems
+- Smart Contract Security & Auditing
+- Upgradeable Contracts (UUPS / Proxy Patterns)
+- EIP-712 & Signature-Based Transactions
+- Chainlink Oracles & Price Feeds
+- Wallet Integrations & Web3 Authentication
+- DEX Aggregators & Cross-Chain Integrations
+- Escrow, Custody & On-Chain Transactions
+- Hyperledger Fabric
+
+**Web3 Development Tools**
+
+- Hardhat & Truffle
+- OpenZeppelin
+- Ethers.js & Web3.js
+- Wagmi & Viem
+- RainbowKit & Reown AppKit
+- MetaMask & WalletConnect
+- IPFS & Pinata
+
+### Artificial Intelligence & Automation
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,openai" />
+</p>
+
+- OpenAI API & GPT Integrations
+- Large Language Model (LLM) Integrations
+- AI-Powered Applications
+- AI Agents & Agentic Workflows
+- Conversational AI & Chatbots
+- Retrieval-Augmented Generation (RAG) Concepts
+- Prompt Engineering
+- AI-Based Workflow Automation
+- n8n Automation
+- Vapi Voice AI Integrations
+- AI-Assisted Development & Code Optimization
+- AI Integration with Existing Business Applications
+
+### Databases & Data Engineering
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,firebase" />
+</p>
+
+- MongoDB & Mongoose
+- PostgreSQL
+- MySQL
+- Prisma ORM
+- Redis & Caching Strategies
+- Firebase & Firestore
+- Database Schema Design
+- Query Optimization & Indexing
+- Data Modeling & Transaction Management
+- Relational & NoSQL Database Architecture
+
+### Cloud, DevOps & Infrastructure
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,linux,nginx,git,github,vercel,bash" />
+</p>
+
+- AWS & Cloud Application Deployment
+- Microsoft Azure
+- Docker & Containerization
+- Kubernetes Fundamentals
+- Linux Server Administration
+- Nginx & Reverse Proxy Configuration
+- CI/CD Workflows
+- Git & GitHub
+- VPS & Ubuntu Server Deployment
+- Environment Configuration & Secrets Management
+- Application Monitoring & Production Troubleshooting
+
+### Architecture & Engineering Practices
+
+- Scalable System Design
+- Clean Architecture & SOLID Principles
+- Object-Oriented Programming
+- Design Patterns & Modular Development
+- Domain-Driven Design Concepts
+- Database Design & Optimization
+- Distributed Systems Concepts
+- Secure Software Development
+- Performance & Memory Optimization
+- Code Reviews & Technical Documentation
+- Agile & Scrum Methodologies
+
+---
+
+## Featured Engineering Domains
+
+| Domain | Areas of Expertise |
+|---|---|
+| FinTech | Payment Systems, Digital Wallets, Trading Platforms |
+| Blockchain | DeFi, DEX, CEX, Smart Contracts, Tokenization |
+| Web3 | NFT Marketplaces, Launchpads, Staking Platforms |
+| AI & Automation | AI Agents, LLM Applications, Intelligent Workflows |
+| Enterprise Software | Scalable APIs, Backend Systems, Admin Dashboards |
+| Real Estate RWA | Security Tokens, Compliance, Digital Asset Platforms |
+
+---
+
+## Selected Projects & Experience
+
+### 1. TradeREA – Real World Asset Tokenization
+- Blockchain-powered real estate tokenization platform.
+- Smart contract development and token management.
+- Security token architecture and compliance integrations.
+- Investor dashboards and backend infrastructure.
+- Payment integrations and transaction workflows.
+
+### 2. AlphaNex – Centralized & Decentralized Exchange
+- Cryptocurrency exchange infrastructure.
+- Wallet, custody and transaction management.
+- P2P escrow and trading workflows.
+- Backend services and real-time application features.
+
+### 3. Eclypse – Token Launchpad
+- EVM-based token launchpad architecture.
+- Token deployment and bonding curve mechanics.
+- Automated liquidity provisioning.
+- Wallet connectivity and smart contract integration.
+
+### 4. KashBee – Multi-Chain Crypto Wallet
+- Multi-network USDT wallet infrastructure.
+- Ethereum, BNB Chain and TRON integrations.
+- Deposit, withdrawal and transaction processing.
+- Backend APIs and administrative security.
+
+### 5. NuBlock Pay – Multi-Chain Payment Application
+- Web3 payment application architecture.
+- Multi-chain wallet and transaction integrations.
+- Cross-chain swaps and payment infrastructure.
+- React Native and Node.js development.
+
+---
+
+## Development Workflow & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=vscode,webstorm,postman,figma,github,gitlab,docker,linux" />
+</p>
+
+- Visual Studio Code & WebStorm
+- Postman & API Testing
+- GitHub & GitLab
+- Figma & UI Collaboration
+- Jira & Agile Workflows
+- ChatGPT & Claude for AI-Assisted Engineering
+- Debugging, Testing & Performance Profiling
+
+---
+
+## GitHub Statistics
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=babarhanif96&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=babarhanif96&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=babarhanif96&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## Engineering Philosophy
+
+> Great software is not just about writing code. It's about engineering reliable, secure, scalable, and maintainable solutions that solve real-world problems.
+
+I believe in continuous learning, technical excellence, collaborative engineering, and building products that create measurable business value.
+
+---
+
+## Let's Connect
+
+<p align="center">
+  <a href="https://github.com/babarhanif96">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <b>Building scalable software. Engineering intelligent systems. Exploring the future of Web3 and AI.</b>
+</p>
